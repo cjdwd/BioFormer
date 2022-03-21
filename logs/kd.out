@@ -1,0 +1,47 @@
+Found local copy...
+Loading...
+Done!
+To log space...
+Binariztion using threshold 5.0, default, we assume the smaller values are 1 and larger ones is 0, you can change the order by 'binarize(order = 'ascending')'
+dataset len:  192
+one step size:  192
+one print step time:  9.057740688323975
+Training at Epoch 1 iteration 0 with loss 0.8139191652099665
+train
+optimal threshold: 0.08830547332763672
+AUROC:0.4654017857142857
+AUPRC: 0.42392503447790486
+Confusion Matrix : 
+ [[  4 108]
+ [  0  80]]
+Recall :  1.0
+Precision :  0.425531914893617
+Accuracy :  0.4375
+Sensitivity :  0.03571428571428571
+Specificity :  1.0
+valid
+valid at iteration 0 with loss 0.7015537095344816
+optimal threshold: 0.4478764533996582
+AUROC:0.49668730313891607
+AUPRC: 0.5227086931311065
+Confusion Matrix : 
+ [[ 1 92]
+ [ 0 99]]
+Recall :  1.0
+Precision :  0.518324607329843
+Accuracy :  0.5208333333333334
+Sensitivity :  0.010752688172043012
+Specificity :  1.0
+test
+valid at iteration 0 with loss 0.7005465160965105
+optimal threshold: 0.4476480185985565
+AUROC:0.4814915327833261
+AUPRC: 0.5123613585099244
+Confusion Matrix : 
+ [[ 0 94]
+ [ 0 98]]
+Recall :  1.0
+Precision :  0.5104166666666666
+Accuracy :  0.5104166666666666
+Sensitivity :  0.0
+Specificity :  1.0

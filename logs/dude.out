@@ -1,0 +1,16 @@
+dataset len:  32544
+one step size:  18432
+one print step time:  54.8969030380249
+Training at Epoch 1 iteration 63 with loss 0.3978449249994135
+train
+optimal threshold: 0.4503529369831085
+AUROC:0.8964374359309909
+AUPRC: 0.8791893221537441
+Confusion Matrix : 
+ [[12721  3554]
+ [ 2159 14110]]
+Recall :  0.8672936259143156
+Precision :  0.7987998188405797
+Accuracy :  0.8244530481809242
+Sensitivity :  0.7816282642089094
+Specificity :  0.8672936259143156

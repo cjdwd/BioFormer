@@ -1,0 +1,77 @@
+Found local copy...
+Loading...
+Done!
+To log space...
+Binariztion using threshold 7.932, default, we assume the smaller values are 1 and larger ones is 0, you can change the order by 'binarize(order = 'ascending')'
+[O]
+[O]
+[O]
+[O]
+[O]
+[O]
+[O]
+[O]
+[O]
+[O]
+[O]
+[O]
+[O]
+[O]
+[O]
+dataset len:  66240
+[O]
+[O]
+one step size:  12288
+one print step time:  43.57404327392578
+Training at Epoch 1 iteration 63 with loss 0.5929296002731712
+[O]
+[O]
+one step size:  12288
+one print step time:  32.97500729560852
+Training at Epoch 1 iteration 127 with loss 0.5713289135460398
+one step size:  12288
+one print step time:  33.44246220588684
+Training at Epoch 1 iteration 191 with loss 0.5127064886692808
+[O]
+[O]
+one step size:  12288
+one print step time:  33.47614359855652
+Training at Epoch 1 iteration 255 with loss 0.517038821344859
+one step size:  12288
+one print step time:  33.5195050239563
+Training at Epoch 1 iteration 319 with loss 0.5293149773995167
+[O]
+[O]
+train
+optimal threshold: 0.40777361392974854
+AUROC:0.8057696084092175
+AUPRC: 0.8153798353231638
+Confusion Matrix : 
+ [[21161 11815]
+ [ 6819 26445]]
+Recall :  0.7950036075036075
+Precision :  0.6911918452692106
+Accuracy :  0.71868961352657
+Sensitivity :  0.641709121785541
+Specificity :  0.7950036075036075
+valid
+valid at iteration 0 with loss 0.5605297051781877
+[O]
+[O]
+[O]
+[O]
+[O]
+optimal threshold: 0.32534709572792053
+AUROC:0.8400279122153775
+AUPRC: 0.8417613395988124
+Confusion Matrix : 
+ [[3157 1610]
+ [ 747 3894]]
+Recall :  0.8390433096315449
+Precision :  0.7074854651162791
+Accuracy :  0.749468537414966
+Sensitivity :  0.6622613803230544
+Specificity :  0.8390433096315449
+one step size:  12288
+one print step time:  30.234309196472168
+Training at Epoch 2 iteration 63 with loss 0.5126257606918736
