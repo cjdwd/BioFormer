@@ -32,9 +32,9 @@ You should see the following data structure:
 ```
 ***
 ## Run
-To train on kd, kiba or dude, simply run
-bash train.sh [dataset], dataset is one of kd, kiba or dude
-For example, train on kd, you should run:
+To train on kd, kiba or dude, simply run  
+bash train.sh [dataset], dataset is one of kd, kiba or dude  
+For example, train on kd, you should run:  
 ```shell
 bash train.sh kd
 ```
