@@ -11,7 +11,7 @@ as well as contactmap.
 
 ### To prepare the datasets:
 
-1. Download my_data.zip:  
+1. Download my_data.zip: https://drive.google.com/file/d/1fz8EZBOKFplIBugsX2eueR65ZHBBgEre/view?usp=sharing
 2. Create a new folder my_data under data  
 3. Unzip my_data.zip in my_data  
 
