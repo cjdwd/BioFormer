@@ -2,6 +2,12 @@
 Efficiently predicting Drug Target Interaction
 ![avatar](./Image/fpn_lstm.png)
 ***
+## Requirements
+To install the TDC package, open the terminal and type: 
+```shell
+pip install PyTDC
+```
+***
 ## Datasets
 In the data folder, we provide all three 
 processed datasets used in our model: 
