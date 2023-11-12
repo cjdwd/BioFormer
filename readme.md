@@ -1,4 +1,4 @@
-# FPN BiLSTM
+# BioFormer
 Efficiently predicting Drug Target Interaction
 ![avatar](./Image/fpn_lstm.png)
 ***
